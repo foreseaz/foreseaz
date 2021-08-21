@@ -3,14 +3,14 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="50%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=foreseaz&show_icons=true&hide_title=true&count_private=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=foreseaz&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
         </a>
       </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foreseaz&layout=compact&theme=graywhite" />
+      <td width="50%">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img src="https://activity-graph.herokuapp.com/graph?username=foreseaz&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true" />
         </a>
       </td>
     </tr>
