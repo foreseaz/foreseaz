@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-This is Chenxi, a Software Engineer at Cloudflare. On https://chenxi.dev/, I'll be sharing my tech notes and musings on all things software engineering. I hope you'll find something useful and interesting and thanks for stopping by :)
+I’m Chenxi, a Software Engineer on the CDN team at Cloudflare, where I’m currently geeking out over distributed systems, networking, and caching.
+
+Outside of work, you’ll probably find me on the slopes 🏂 or out shooting [films](https://www.foreseaz.com/photo) 📸.
